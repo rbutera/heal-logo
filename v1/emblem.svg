@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="269px" height="209px" viewBox="0 0 269 209" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>emblem</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="6.87914624%" y1="54.2861826%" x2="93.1208538%" y2="45.7138174%" id="linearGradient-1">
+            <stop stop-color="#E3646C" offset="29%"></stop>
+            <stop stop-color="#E30613" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="16.7435459%" y1="39.3710124%" x2="89.2865114%" y2="62.5571701%" id="linearGradient-2">
+            <stop stop-color="#E3646C" offset="29%"></stop>
+            <stop stop-color="#E30613" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="emblem" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.84">
+        <g fill-rule="nonzero">
+            <g id="vertical" style="mix-blend-mode: multiply;" transform="translate(59.000000, 0.000000)" fill="url(#linearGradient-1)">
+                <rect id="left" transform="translate(23.635000, 104.010000) rotate(90.000000) translate(-23.635000, -104.010000) " x="-80.375" y="81.205" width="208.02" height="45.61" rx="17.5"></rect>
+                <rect id="right" transform="translate(127.185000, 104.010000) rotate(90.000000) translate(-127.185000, -104.010000) " x="23.175" y="81.205" width="208.02" height="45.61" rx="17.5"></rect>
+            </g>
+            <rect id="cross" fill="url(#linearGradient-2)" style="mix-blend-mode: multiply;" x="0" y="81.2" width="268.82" height="45.61" rx="19.9"></rect>
+        </g>
+    </g>
+</svg>

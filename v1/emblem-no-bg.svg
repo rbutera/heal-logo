@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="402px" height="402px" viewBox="0 0 402 402" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>emblem-no-bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="6.87914624%" y1="54.2941171%" x2="93.1208538%" y2="45.7058829%" id="linearGradient-1">
+            <stop stop-color="#E3646C" offset="29%"></stop>
+            <stop stop-color="#E30613" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="16.7435459%" y1="39.5473709%" x2="89.2865114%" y2="62.3488188%" id="linearGradient-2">
+            <stop stop-color="#E3646C" offset="29%"></stop>
+            <stop stop-color="#E30613" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="emblem-no-bg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" cx="201" cy="201" r="201"></circle>
+        <g id="emblem" transform="translate(43.000000, 79.000000)" fill-rule="nonzero" opacity="0.84">
+            <g id="vertical" style="mix-blend-mode: multiply;" transform="translate(69.000000, 0.000000)" fill="url(#linearGradient-1)">
+                <path d="M-76.6938648,95.1677314 L132.157331,95.1677314 C141.822315,95.1677314 149.657331,103.002748 149.657331,112.667731 L149.657331,131.183465 C149.657331,140.848448 141.822315,148.683465 132.157331,148.683465 L-76.6938648,148.683465 C-86.3588479,148.683465 -94.1938648,140.848448 -94.1938648,131.183465 L-94.1938648,112.667731 C-94.1938648,103.002748 -86.3588479,95.1677314 -76.6938648,95.1677314 Z" id="left" transform="translate(27.731733, 121.925598) rotate(90.000000) translate(-27.731733, -121.925598) "></path>
+                <path d="M44.8048019,95.1677314 L253.655998,95.1677314 C263.320981,95.1677314 271.155998,103.002748 271.155998,112.667731 L271.155998,131.183465 C271.155998,140.848448 263.320981,148.683465 253.655998,148.683465 L44.8048019,148.683465 C35.1398188,148.683465 27.3048019,140.848448 27.3048019,131.183465 L27.3048019,112.667731 C27.3048019,103.002748 35.1398188,95.1677314 44.8048019,95.1677314 Z" id="right" transform="translate(149.230400, 121.925598) rotate(90.000000) translate(-149.230400, -121.925598) "></path>
+            </g>
+            <rect id="cross" fill="url(#linearGradient-2)" style="mix-blend-mode: multiply;" x="0" y="95" width="315" height="53" rx="19.9"></rect>
+        </g>
+    </g>
+</svg>
